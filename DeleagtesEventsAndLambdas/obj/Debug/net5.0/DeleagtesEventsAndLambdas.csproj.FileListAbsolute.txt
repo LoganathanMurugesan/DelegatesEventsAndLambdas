@@ -1,0 +1,16 @@
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.exe
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.deps.json
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.runtimeconfig.json
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.runtimeconfig.dev.json
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.dll
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\ref\DeleagtesEventsAndLambdas.dll
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\bin\Debug\net5.0\DeleagtesEventsAndLambdas.pdb
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.csproj.AssemblyReference.cache
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.AssemblyInfoInputs.cache
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.AssemblyInfo.cs
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.csproj.CoreCompileInputs.cache
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.dll
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\ref\DeleagtesEventsAndLambdas.dll
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.pdb
+C:\CodeRed\DeleagtesEventsAndLambdas\DeleagtesEventsAndLambdas\obj\Debug\net5.0\DeleagtesEventsAndLambdas.genruntimeconfig.cache
