@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DeleagtesEventsAndLambdas
@@ -20,6 +21,7 @@ namespace DeleagtesEventsAndLambdas
         {
             for (int i = 0; i < hours; i++)
             {
+                Thread.Sleep(1000);
                 OnWorkPerformed(i+1, workType);
             }
             OnWorkCompleted();  
