@@ -23,6 +23,9 @@ namespace DeleagtesEventsAndLambdas
             //    Console.WriteLine("Work is done");
             //};
 
+            //using lambdas
+            //worker.WorkPerfomed += (s,e) => Console.WriteLine("Work is done");
+            
             worker.WorkPerfomed += new WorkPerfomedHandler(Work_WorkPerformed);
             worker.WorkCompleted += new EventHandler(Work_WorkCompleted);
             worker.DoWork(8, WorkType.Develop);
